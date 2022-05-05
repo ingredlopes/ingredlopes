@@ -1,6 +1,5 @@
 - 👋 Olá!, Eu sou @ingredlopes
 - 👀 Estou ingressando agora em DEV pela FIAP. 
-- 🌱 No momento estou aprendendno Visualg e PyCharm
 - 💞️ Estou a busca de novas oportunidades.
 - 📫 Voce me achara atraves do https://www.linkedin.com/in/ingred-silva-lopes-937604132/
 
